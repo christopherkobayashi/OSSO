@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "osso")(type "KiCad")(uri "$(KIPRJMOD)/osso.pretty")(options "")(descr ""))
+)

@@ -23,7 +23,7 @@ A test Debian GNU/Linux install is available.  Installation instructions are [he
 
 The size of the cape is a standard format for 9 units DIN mount boxes.
 
-##Pictures
+## Pictures
 
 ![Osso board](images/Osso2_650x450.jpg)
 ![Osso board](images/Osso3_650x450.jpg)

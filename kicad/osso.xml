@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/wileyc/src/OSSO/kicad/osso.kicad_sch</source>
+    <date>Fri 27 Jan 2023 08:09:53 PM JST</date>
+    <tool>Eeschema (6.0.11)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>osso.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="ALIM0">
+      <value>Alim</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54155dcc-57cf-456e-862a-8c0fdb2eb9b9 37314271-11af-4c37-8126-66af75f5b9b7</tstamps>
+    </comp>
+    <comp ref="ALIM1">
+      <value>Alim</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e5589aa-10b6-4c71-95e2-b7e98216f9a9 608f941c-6f96-4476-a135-868a3d9e40f2</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16d9724a-2ce6-421c-a9e1-736285bdf439</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8755017b-59fc-48a0-a87f-61ad4f2d9534</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44b62ec9-19fc-4dab-91ce-b84ffbc03656</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10c1fc45-0d63-47eb-b100-8f0f5da42b71</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d98ff560-ea87-49a2-a61a-65792089b043</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>787aac00-6874-4757-b0c3-43a05454efbc</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cebb49d2-66db-4e84-8ce0-7bf4ef2fc37e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d90ef90a-4f03-46f7-84ba-24e991363945</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ab45594-068d-43d3-97f7-4a1914317dfc</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b69921e-3dcc-4e53-b61a-c7391dcebcbc</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C5/2.5</value>
+      <footprint>osso:C5B2.5</footprint>
+      <libsource lib="osso-eagle-import" part="C5{slash}2.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>015c6b0d-8c7b-4d81-8b13-d900cb18a7ff</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>DIODE</value>
+      <footprint>osso:DO15-12</footprint>
+      <libsource lib="osso-eagle-import" part="DIODE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06573914-0aaf-4460-a15e-5f05ad345bcd</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>HOLE3.0</value>
+      <footprint>osso:3,0</footprint>
+      <libsource lib="osso-eagle-import" part="HOLE3.0" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d00ed4e4-5eb4-4574-8d95-5c13c49daad1</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>HOLE3.0</value>
+      <footprint>osso:3,0</footprint>
+      <libsource lib="osso-eagle-import" part="HOLE3.0" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c832b7c-60ab-410d-867a-c9fa1adb72a3</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>HOLE3.0</value>
+      <footprint>osso:3,0</footprint>
+      <libsource lib="osso-eagle-import" part="HOLE3.0" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c5ca27e-9468-42ea-af7c-5245abd11fee</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>HOLE3.0</value>
+      <footprint>osso:3,0</footprint>
+      <libsource lib="osso-eagle-import" part="HOLE3.0" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bc23ec3-e841-4f31-bc88-521e8b9b3dc3</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>HOLE3.0</value>
+      <footprint>osso:3,0</footprint>
+      <libsource lib="osso-eagle-import" part="HOLE3.0" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11d38de6-7b74-4848-a248-063d8a423d22</tstamps>
+    </comp>
+    <comp ref="I2C0">
+      <value>I2C</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e33d791-ce32-46a3-a3bd-35aa6850b9f5 1f54ec20-5b0c-4592-afac-f3c7e5c8c637</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>REGOLATORE_TENSIONESWITCHING</value>
+      <footprint>osso:MT6-3</footprint>
+      <libsource lib="osso-eagle-import" part="REGOLATORE_TENSIONESWITCHING" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45171ac7-4aff-4fc2-9c34-cdf72b065c70</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>ULN2003AN</value>
+      <footprint>osso:DIL16</footprint>
+      <libsource lib="osso-eagle-import" part="ULN2003AN" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2fff4df-c329-4fc9-9306-66657994635b</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>ULN2003AN</value>
+      <footprint>osso:DIL16</footprint>
+      <libsource lib="osso-eagle-import" part="ULN2003AN" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bf97cfb-97f9-4298-991d-f2eeab9003f3</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>MAX202CPE</value>
+      <footprint>osso:DIL16</footprint>
+      <libsource lib="osso-eagle-import" part="MAX202CPE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e7337d2-17d4-40d4-b026-acc7c56a6988</tstamps>
+    </comp>
+    <comp ref="IC5">
+      <value>MAX481CPA</value>
+      <footprint>osso:DIL08</footprint>
+      <libsource lib="osso-eagle-import" part="MAX481CPA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6c9925a-e856-47eb-9703-1f043791db13 ccf6fa01-acbb-4d96-9162-a5196de009e7</tstamps>
+    </comp>
+    <comp ref="IC6">
+      <value>REGOLATORE_TENSIONESWITCHING</value>
+      <footprint>osso:MT6-3</footprint>
+      <libsource lib="osso-eagle-import" part="REGOLATORE_TENSIONESWITCHING" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>856dd10c-d627-441b-bb7b-34c7c21df6f9</tstamps>
+    </comp>
+    <comp ref="IN1">
+      <value>IN1</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52331d74-c7a5-4f52-bd3b-0aca27c48791 08145f45-2ae1-4e34-90a9-fe47cf049fb9</tstamps>
+    </comp>
+    <comp ref="IN2">
+      <value>IN2</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c30a693-577a-4133-86a1-2a41dbf03e78 6720a88b-a6f2-4d01-bb57-a146c84b5b07</tstamps>
+    </comp>
+    <comp ref="IN3">
+      <value>IN3</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f9806eb-0f00-460e-b3d9-df7d51de7690 0b45708a-38e4-4011-83f9-f87b196df238</tstamps>
+    </comp>
+    <comp ref="IN4">
+      <value>IN4</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9ec31d2-263c-4cea-ae2d-58108e857b25 727683aa-567d-4c79-9aab-32fcc5959b73</tstamps>
+    </comp>
+    <comp ref="IN5">
+      <value>IN5</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a57d8297-0ea9-4da4-a7a9-eeac8f4ef7db 9cf65cf7-e9e6-4764-8088-6713623f70e0</tstamps>
+    </comp>
+    <comp ref="IN6">
+      <value>IN6</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88e9e40a-97c6-4b6e-9f6f-5f6d9c309041 00f1d7f3-33bd-4323-b362-9b22fef141f8</tstamps>
+    </comp>
+    <comp ref="IN7">
+      <value>IN7</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3d8291f-a132-4b1e-a339-6de52ab361fc 8efc3e5b-6fa1-4e68-a1e4-ec8b2d96b295</tstamps>
+    </comp>
+    <comp ref="IN8">
+      <value>IN8</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd5466e3-8df1-4168-8c72-b3ad8f786eb0 495363f0-0f45-493c-8553-21c5c081f230</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>RTC_MICROROBOT_ALGOZINO-PTH</value>
+      <footprint>osso:RTC_MICROBOT_ALGOZINO</footprint>
+      <libsource lib="osso-eagle-import" part="RTC_MICROROBOT_ALGOZINO-PTH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ea5ccaa-3b75-435c-aa64-6d01c486ba2b</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>JUMPER_2</value>
+      <footprint>osso:JP1</footprint>
+      <libsource lib="osso-eagle-import" part="JUMPER_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8abfea0e-e771-4a2c-a96e-d707cc2cec2c</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>RELAY</value>
+      <footprint>osso:G5LE</footprint>
+      <libsource lib="osso-eagle-import" part="RELAY" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a103ec66-543e-47ee-9fdb-2dbb480cbd1b 315d49c0-ffba-4646-b081-24f60ef3ec36</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>RELAY</value>
+      <footprint>osso:G5LE</footprint>
+      <libsource lib="osso-eagle-import" part="RELAY" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd58a63f-6ae3-4874-a5cb-dfc41e201fb7 abef28bd-c851-40c7-8b86-691645b883bd</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>RELAY</value>
+      <footprint>osso:G5LE</footprint>
+      <libsource lib="osso-eagle-import" part="RELAY" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8331e831-2a6d-4216-a543-307f947d2fdb 754ea886-9975-4b0c-b5ff-cc8682bd54df</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>RELAY</value>
+      <footprint>osso:G5LE</footprint>
+      <libsource lib="osso-eagle-import" part="RELAY" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a4baff7-aa55-4775-aa6b-e1deee817a42 1a0f8514-79a0-4f07-935f-69e32a7cb115</tstamps>
+    </comp>
+    <comp ref="K5">
+      <value>RELAY</value>
+      <footprint>osso:G5LE</footprint>
+      <libsource lib="osso-eagle-import" part="RELAY" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71663292-e075-4685-b67e-f308804ee326 2b3836d1-7e7d-4c7f-a56d-e208f4874be4</tstamps>
+    </comp>
+    <comp ref="K6">
+      <value>RELAY</value>
+      <footprint>osso:G5LE</footprint>
+      <libsource lib="osso-eagle-import" part="RELAY" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7d835c4-85b3-4cfd-9a05-deca1de4b81e 75e172d4-0b81-4f24-944b-b380ea4d6264</tstamps>
+    </comp>
+    <comp ref="K7">
+      <value>RELAY</value>
+      <footprint>osso:G5LE</footprint>
+      <libsource lib="osso-eagle-import" part="RELAY" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35a4a6e7-5a58-413b-b418-9bc0c9d0f2db 1aa4270f-3e56-443a-86d3-73acfa31f946</tstamps>
+    </comp>
+    <comp ref="K8">
+      <value>RELAY</value>
+      <footprint>osso:G5LE</footprint>
+      <libsource lib="osso-eagle-import" part="RELAY" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0033ccd-68bb-4bde-9110-af3f046611e7 1f6793ac-5389-43d0-8434-2eea7feb3ea1</tstamps>
+    </comp>
+    <comp ref="OK1">
+      <value>OPTOISOLATORE_ILQ620</value>
+      <footprint>osso:DIL16</footprint>
+      <libsource lib="osso-eagle-import" part="OPTOISOLATORE_ILQ620" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93ec1a12-7683-4024-b7be-999a5079796e 619ffcf3-8209-4ddf-a9e3-b5723dbcb6e3 30852a7c-754c-4b43-adf6-fd07ce748751 275f0948-b916-4424-97ce-216f9e047c26</tstamps>
+    </comp>
+    <comp ref="OK2">
+      <value>OPTOISOLATORE_ILQ620</value>
+      <footprint>osso:DIL16</footprint>
+      <libsource lib="osso-eagle-import" part="OPTOISOLATORE_ILQ620" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6326aaa-3428-4575-8a7f-80137694e282 6d55b16e-ecd2-40af-8c51-0b8a06118d0c c741e7bb-f6db-48d1-8954-98d5ffe5e040 23f1eb8d-e8e2-4138-888d-04be99a3819c</tstamps>
+    </comp>
+    <comp ref="PCB1">
+      <value>BORDO_UNIXMEDIA150X83,5</value>
+      <footprint>osso:BORD_UNIXMEDIA</footprint>
+      <libsource lib="osso-eagle-import" part="BORDO_UNIXMEDIA150X83,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae569a71-ba86-4202-8940-10a37c990b17</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>49</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfb171e0-f0d6-4c0b-a1ed-611b5e35fe6d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>49</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>714bd2a6-e236-48ed-b831-21dda3cf9eae</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>49</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe450b90-5daa-4e4f-914f-d4cca3a02a54</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>49</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>109d8de1-4a16-4917-8a65-031bd66c52ce</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>49</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e5eaa4b-1cff-43aa-a1eb-6e7b79d719cd</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>49</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>400f1edf-28ed-4fc2-88ea-49ea79c08df9</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>49</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15377ab0-2e76-41e5-92b0-1b738adfb1f9</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>49</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4368dc6-11fc-47b5-ba6e-ac64d9f69278</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>RESISTOR0204/7</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b98dcf87-ff69-40b1-9c94-ddd4c2f454f4</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4169c07a-840b-455a-9f7f-6f1d72c23d99</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efdfaa8c-664e-4580-a426-6966d4d0e00f</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a23b7ed3-1c5a-47cd-b8cb-a3af43f85f36</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>RESISTOR0204/7</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59747882-6c44-47a0-8cc5-aadb8992a54c</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>704da3ac-a3c4-4e3c-bc53-e3429e306777</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>RESISTOR0204/7</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dda73e9-7d72-4373-89e9-cda65158416d</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fad347da-6906-46da-aee7-657e4e97c02a</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62387314-6b51-42b4-83c2-1c08079add17</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eaf82f36-f879-4379-96c3-d634ca722915</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01277594-9ad2-4b4b-a17c-00cb43ea9efb</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef20e523-d41d-4f5c-bf73-ef9f44bc0014</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96b6a164-9c6d-45f0-a818-f77ac099ad4d</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce1d6914-23ab-4876-af6e-032a88d3cdbc</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>RESISTOR0204/7</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a41083aa-e7ed-4d8d-8e73-08f4f0e8d011</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bebbc077-7016-438a-9293-055e2fdf0193</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10k</value>
+      <footprint>osso:0204_7</footprint>
+      <libsource lib="osso-eagle-import" part="RESISTOR0204{slash}7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de3db7db-8c5e-4edf-b48a-0afe29d2b1c1</tstamps>
+    </comp>
+    <comp ref="SCL2">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ef7269f-84cf-448d-9c81-81b6cdfd2db3</tstamps>
+    </comp>
+    <comp ref="SDA2">
+      <value>TP1</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b069f4a4-49db-49ef-a2b2-9a6284e1e196</tstamps>
+    </comp>
+    <comp ref="SS1">
+      <value>CE-MARK</value>
+      <footprint>osso:CE-MARK-0.2</footprint>
+      <libsource lib="osso-eagle-import" part="CE-MARK" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a562b35d-e325-4649-9b0e-4d0a1ccd2075</tstamps>
+    </comp>
+    <comp ref="SS2">
+      <value>PB-MARK</value>
+      <footprint>osso:PB-MARK-0.2</footprint>
+      <libsource lib="osso-eagle-import" part="PB-MARK" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>057d9d19-e4d1-4f73-91eb-d6b78e022997</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afe0a298-a7e2-4f3b-8591-45c9d060fa15</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2027a5aa-ff12-44a4-8634-387f6fb298c5</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0367abb-8df8-4bc8-b6d4-0436872cd40b</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f206b1a-9098-4395-9656-ec9e8a8efde1</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c89e2c52-b151-4a9c-8dd1-e8472c3aa242</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>825afa0c-41ef-4dd3-ae32-23b9fcc4abac</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4df74b07-89fa-4cc2-bce1-652430f0c661</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04dd602d-6784-4b2f-a7d7-652b6e8a70d2</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b07bcaa-fa74-4141-b8ba-62be0d481fe6</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce948b25-5f7f-400e-a154-fedb5fa12af4</tstamps>
+    </comp>
+    <comp ref="TP11">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44bdcf1a-6acb-4e1b-8efa-041a47d17e08</tstamps>
+    </comp>
+    <comp ref="TP12">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7aaa3977-e40b-4ff2-9553-bb1e4e782c0c</tstamps>
+    </comp>
+    <comp ref="TP13">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c112af2-1db1-4694-84be-27f94f2efb1f</tstamps>
+    </comp>
+    <comp ref="TP14">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49d6b3b0-85bb-4a1d-83f9-f735873deddd</tstamps>
+    </comp>
+    <comp ref="TP15">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e6ebefc-dc4c-49b0-93fe-04b650f26470</tstamps>
+    </comp>
+    <comp ref="TP16">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9a843b3-acba-4e69-aab6-a2bb3623c84b</tstamps>
+    </comp>
+    <comp ref="TP17">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fe9e68e-fe57-4275-ac0d-508a2823abf9</tstamps>
+    </comp>
+    <comp ref="TP18">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01597c76-3e70-45c9-96e7-dd40822d5afc</tstamps>
+    </comp>
+    <comp ref="TP19">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b40ddd9-8bee-43b5-b61c-b32215b9f8d8</tstamps>
+    </comp>
+    <comp ref="TP20">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d007a3e6-d97f-4fba-bc85-1089662cc051</tstamps>
+    </comp>
+    <comp ref="TP21">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e67e9b64-a444-44ab-b2c6-049f588ae100</tstamps>
+    </comp>
+    <comp ref="TP22">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14e68908-0275-4c2e-8a70-6599b10118c7</tstamps>
+    </comp>
+    <comp ref="TP23">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c15f5d6-6c94-480d-b202-1b5e155789e0</tstamps>
+    </comp>
+    <comp ref="TP24">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df1cdd96-1661-4ec5-a33c-524588aa668b</tstamps>
+    </comp>
+    <comp ref="TP25">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f50c208-7ee9-4f08-895a-c2e87331e002</tstamps>
+    </comp>
+    <comp ref="TP26">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6995abd8-458f-4ce8-a483-4920ba4d2d8a</tstamps>
+    </comp>
+    <comp ref="TP27">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8918f8b-9754-426c-958a-4a08b6385664</tstamps>
+    </comp>
+    <comp ref="TP28">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccff1e25-3e94-4195-a6ab-71c72836f0fb</tstamps>
+    </comp>
+    <comp ref="TP29">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>186aa08d-185d-4b82-b02d-90d9d391b88f</tstamps>
+    </comp>
+    <comp ref="TP30">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b68b3293-1c9a-4449-8475-aa7beaa2aa95</tstamps>
+    </comp>
+    <comp ref="TP31">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53216338-5d9e-4738-aa0d-292f4a1fa25f</tstamps>
+    </comp>
+    <comp ref="TP32">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f6fc5e4-d189-4f79-b019-256e6e1a9027</tstamps>
+    </comp>
+    <comp ref="TP33">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d160c7a-fb61-49b7-94d8-37907c36455c</tstamps>
+    </comp>
+    <comp ref="TP34">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3c93b3c-b386-4582-806c-05ea63ea52bc</tstamps>
+    </comp>
+    <comp ref="TP35">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0afb642b-8434-4e37-b633-f907fbad1d20</tstamps>
+    </comp>
+    <comp ref="TP36">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60e02977-ca45-4a30-b178-6e32f2a95415</tstamps>
+    </comp>
+    <comp ref="TP37">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9f47cf4-db26-4675-87f7-9a66b0164fd2</tstamps>
+    </comp>
+    <comp ref="TP38">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>129e5265-9005-414e-be83-500411285d9a</tstamps>
+    </comp>
+    <comp ref="TP39">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70d982ec-0052-46c1-bfaa-2df172edf99f</tstamps>
+    </comp>
+    <comp ref="TP40">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d0e05a4-6083-4c39-adcc-bc9b091432e1</tstamps>
+    </comp>
+    <comp ref="TP41">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd5738b7-265d-437f-9137-e3496fc8dcfb</tstamps>
+    </comp>
+    <comp ref="TP42">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a2f23c6-1197-46e1-82f9-019fb5f3ffba</tstamps>
+    </comp>
+    <comp ref="TP43">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f99b55e7-0034-456e-bcd6-69c26dbfebdb</tstamps>
+    </comp>
+    <comp ref="TP44">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43090aad-10aa-4834-a021-fc5bad1f1c12</tstamps>
+    </comp>
+    <comp ref="TP45">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>321646e4-37b2-451b-a82d-43aec2054ffd</tstamps>
+    </comp>
+    <comp ref="TP46">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6b733b5-474f-4f8f-b285-f8a58f24f724</tstamps>
+    </comp>
+    <comp ref="TP47">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ada3c85-a30a-4450-ac81-e940d6ef0ae4</tstamps>
+    </comp>
+    <comp ref="TP48">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6306ce7c-ad6a-49b4-8f4a-e96a524932d7</tstamps>
+    </comp>
+    <comp ref="TP49">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06530c46-05cd-4648-8a30-62e0abb1216b</tstamps>
+    </comp>
+    <comp ref="TP50">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42ecd62e-5392-4462-a499-057361786284</tstamps>
+    </comp>
+    <comp ref="TP51">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a1057bb-152a-4dcf-8e9d-3b1ccb22866b</tstamps>
+    </comp>
+    <comp ref="TP52">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50e06266-cfbd-4ad3-9f85-a276a75098fc</tstamps>
+    </comp>
+    <comp ref="TP53">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb2b5c83-a6cd-4ad3-abef-b60747416ab1</tstamps>
+    </comp>
+    <comp ref="TP54">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a02ada3-f8b5-408f-9e4d-2d237c43093f</tstamps>
+    </comp>
+    <comp ref="TP55">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a8b06b8-83ae-47bc-8857-cc7665dbb64e</tstamps>
+    </comp>
+    <comp ref="TP56">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dec66514-83d1-454b-a6ee-c781193dd3bb</tstamps>
+    </comp>
+    <comp ref="TP57">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8647fba8-1aeb-4481-acdb-e18f8221ce73</tstamps>
+    </comp>
+    <comp ref="TP58">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a468940-5221-4e82-8495-8b6b24bf1a22</tstamps>
+    </comp>
+    <comp ref="TP59">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e1d7a04-afbd-41a4-b31c-e0502c9161c9</tstamps>
+    </comp>
+    <comp ref="TP60">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec5b4602-7369-4979-9a6c-8e935781f2dc</tstamps>
+    </comp>
+    <comp ref="TP61">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c463400-f3dc-4258-b0cc-81c3dd9452d7</tstamps>
+    </comp>
+    <comp ref="TP62">
+      <value>TPPAD1-13</value>
+      <footprint>osso:TEST_POINT</footprint>
+      <libsource lib="osso-eagle-import" part="TPPAD1-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fda3dd26-93af-4996-a917-1420bcd091d9</tstamps>
+    </comp>
+    <comp ref="U$1">
+      <value>BEAGLEBONE_OUTLINE</value>
+      <footprint>osso:BEAGLEBONE_SHIELD</footprint>
+      <libsource lib="osso-eagle-import" part="BEAGLEBONE_OUTLINE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9c62fe7-abb2-49e5-a5e0-c34515e944ba</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>X1</value>
+      <footprint>osso:W237-103</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aacc33f3-0782-4cde-b83d-fdb27f0dcec9 f455fcc9-bde8-4d32-955a-3e420634b1a6 31bc0e6f-bff4-41d4-a448-b512b9f0c129</tstamps>
+    </comp>
+    <comp ref="X2">
+      <value>X2</value>
+      <footprint>osso:W237-103</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>613e490b-f459-444d-8ba7-d1560f77564b fdc33c67-f3ed-4d7c-8b09-ce9fcb760309 325a26e1-296b-424d-930c-810a7ffd6d0e</tstamps>
+    </comp>
+    <comp ref="X3">
+      <value>X3</value>
+      <footprint>osso:W237-103</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ba16930-b7fb-4b9c-9a39-5029ff0bdb48 b08f08e9-a0ea-4488-b8a6-e8d599cc5d00 07547efd-9683-49a7-a78c-bebc4fb7e1fa</tstamps>
+    </comp>
+    <comp ref="X4">
+      <value>X4</value>
+      <footprint>osso:W237-103</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23ce53eb-50a1-4d8f-a58a-8e267407e473 7cb0c706-2a11-4e23-ba26-dd954d93887d 239873c9-afc6-4ad4-a474-126ca7dbde63</tstamps>
+    </comp>
+    <comp ref="X5">
+      <value>X5</value>
+      <footprint>osso:W237-103</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fd96cab-1aa5-4bef-89a2-4d712f6026c8 9900a88f-d838-4620-9701-f548eddd8411 36687527-4f8b-435f-8248-974f3e0f41f5</tstamps>
+    </comp>
+    <comp ref="X6">
+      <value>X6</value>
+      <footprint>osso:W237-103</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>834a4549-1e4f-4f19-8241-dadc9b1e917f 6e74c7b1-ad03-4723-ae89-1155042dd82a 2014ce66-1861-42aa-b0ac-698498f600e1</tstamps>
+    </comp>
+    <comp ref="X7">
+      <value>X7</value>
+      <footprint>osso:W237-103</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72c2886d-3228-4999-b4b2-d758b2e4d4fb ed7d9c1f-7f2e-4164-81de-a62d6c51a175 594ec8a5-8779-4a01-ad7c-7026184ac9e0</tstamps>
+    </comp>
+    <comp ref="X8">
+      <value>X8</value>
+      <footprint>osso:W237-103</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1eda5d0-98ac-435a-8b71-3ddbb1778e8c a9e3bd2e-6087-4c8d-aae3-0a7ba1641744 16bbce9f-fbb6-4f22-80d9-488607026b68</tstamps>
+    </comp>
+    <comp ref="X9">
+      <value>MORSETTO_3</value>
+      <footprint>osso:W237-103</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3b330c4-955e-42cc-a868-7ee205b3a97e f2e9967f-cda0-464b-99a3-9c077bc87f37 67240e2c-1649-40af-a422-6f0695fb4fb3</tstamps>
+    </comp>
+    <comp ref="X10">
+      <value>MORSETTO_2</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7a052e1-3a33-4d9e-a4ab-48f26133845b d74ea10b-dc33-4108-91d1-063dc0f2002f</tstamps>
+    </comp>
+    <comp ref="X11">
+      <value>MORSETTO_2</value>
+      <footprint>osso:W237-102</footprint>
+      <libsource lib="osso-eagle-import" part="MORSETTO_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="osso.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e792c48b-85d5-4333-925a-968627b77751 6032a44c-2a33-433c-ac1f-7e224ec9d1a0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="osso-eagle-import" part="BEAGLEBONE_OUTLINE">
+      <fields>
+        <field name="Value">BEAGLEBONE_OUTLINE</field>
+        <field name="Footprint">osso:BEAGLEBONE_SHIELD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND@7" type="power_in"/>
+        <pin num="2" name="GND@8" type="power_in"/>
+        <pin num="3" name="GPIO1_6" type="passive"/>
+        <pin num="4" name="GPIO1_7" type="passive"/>
+        <pin num="5" name="GPIO1_2" type="passive"/>
+        <pin num="6" name="GPIO1_3" type="passive"/>
+        <pin num="7" name="TIMER4" type="passive"/>
+        <pin num="8" name="TIMER7" type="passive"/>
+        <pin num="9" name="TIMER5" type="passive"/>
+        <pin num="10" name="TIMER6" type="passive"/>
+        <pin num="11" name="GPIO1_13" type="passive"/>
+        <pin num="12" name="GPIO1_12" type="passive"/>
+        <pin num="13" name="EHRPWM2B" type="passive"/>
+        <pin num="14" name="GPIO0_26" type="passive"/>
+        <pin num="15" name="GPIO1_15" type="passive"/>
+        <pin num="16" name="GPIO1_14" type="passive"/>
+        <pin num="17" name="GPIO0_27" type="passive"/>
+        <pin num="18" name="GPIO2_1" type="passive"/>
+        <pin num="19" name="EHRPWM2A" type="passive"/>
+        <pin num="20" name="GPIO1_31" type="passive"/>
+        <pin num="21" name="GPIO1_30" type="passive"/>
+        <pin num="22" name="GPIO1_5" type="passive"/>
+        <pin num="23" name="GPIO1_4" type="passive"/>
+        <pin num="24" name="GPIO1_1" type="passive"/>
+        <pin num="25" name="GPIO1_0" type="passive"/>
+        <pin num="26" name="GPIO1_29" type="passive"/>
+        <pin num="27" name="GPIO2_22" type="passive"/>
+        <pin num="28" name="GPIO2_24" type="passive"/>
+        <pin num="29" name="GPIO2_23" type="passive"/>
+        <pin num="30" name="GPIO2_25" type="passive"/>
+        <pin num="31" name="UART5_CTSN" type="passive"/>
+        <pin num="32" name="UART5_RTSN" type="passive"/>
+        <pin num="33" name="UART4_RTSN" type="passive"/>
+        <pin num="34" name="UART3_RTSN" type="passive"/>
+        <pin num="35" name="UART4_CTSN" type="passive"/>
+        <pin num="36" name="UART3_CTSN" type="passive"/>
+        <pin num="37" name="UART5_TXD" type="passive"/>
+        <pin num="38" name="UART5_RXD" type="passive"/>
+        <pin num="39" name="GPIO2_12" type="passive"/>
+        <pin num="40" name="GPIO2_13" type="passive"/>
+        <pin num="41" name="GPIO2_10" type="passive"/>
+        <pin num="42" name="GPIO2_11" type="passive"/>
+        <pin num="43" name="GPIO2_8" type="passive"/>
+        <pin num="44" name="GPIO2_9" type="passive"/>
+        <pin num="45" name="GPIO2_6" type="passive"/>
+        <pin num="46" name="GPIO2_7" type="passive"/>
+        <pin num="47" name="GND@1" type="power_in"/>
+        <pin num="48" name="GND@2" type="power_in"/>
+        <pin num="49" name="VDD_3V3EXP@1" type="power_in"/>
+        <pin num="50" name="VDD_3V3EXP@2" type="power_in"/>
+        <pin num="51" name="VDD_5V@1" type="power_in"/>
+        <pin num="52" name="VDD_5V@2" type="power_in"/>
+        <pin num="53" name="SYS_5V@1" type="power_in"/>
+        <pin num="54" name="SYS_5V@2" type="passive"/>
+        <pin num="55" name="PWR_BUT" type="passive"/>
+        <pin num="56" name="SYS_RESETN" type="passive"/>
+        <pin num="57" name="UART4_RXD" type="passive"/>
+        <pin num="58" name="GPIO1_28" type="passive"/>
+        <pin num="59" name="UART4_TXD" type="passive"/>
+        <pin num="60" name="EHRPWM1A" type="passive"/>
+        <pin num="61" name="GPIO1_16" type="passive"/>
+        <pin num="62" name="EHRPWM1B" type="passive"/>
+        <pin num="63" name="I2C1_SCL" type="passive"/>
+        <pin num="64" name="I2C1_SDA" type="passive"/>
+        <pin num="65" name="I2C2_SCL" type="passive"/>
+        <pin num="66" name="I2C2_SDA" type="passive"/>
+        <pin num="67" name="UART2_TXD" type="passive"/>
+        <pin num="68" name="UART2_RXD" type="passive"/>
+        <pin num="69" name="GPIO1_17" type="passive"/>
+        <pin num="70" name="UART1_TXD" type="passive"/>
+        <pin num="71" name="GPIO3_21" type="passive"/>
+        <pin num="72" name="UART1_RXD" type="passive"/>
+        <pin num="73" name="GPIO3_19" type="passive"/>
+        <pin num="74" name="SPI1_CS0" type="passive"/>
+        <pin num="75" name="SPI1_DO" type="passive"/>
+        <pin num="76" name="SPI1_DI" type="passive"/>
+        <pin num="77" name="SPI1_SCLK" type="passive"/>
+        <pin num="78" name="VDD_ADC" type="passive"/>
+        <pin num="79" name="AIN4" type="passive"/>
+        <pin num="80" name="GNDA_ADC" type="passive"/>
+        <pin num="81" name="AIN6" type="passive"/>
+        <pin num="82" name="AIN5" type="passive"/>
+        <pin num="83" name="AIN2" type="passive"/>
+        <pin num="84" name="AIN3" type="passive"/>
+        <pin num="85" name="AIN0" type="power_in"/>
+        <pin num="86" name="AIN1" type="passive"/>
+        <pin num="87" name="CLKOUT2" type="input"/>
+        <pin num="88" name="GPIO0_7" type="passive"/>
+        <pin num="89" name="GND@3" type="power_in"/>
+        <pin num="90" name="GND@5" type="power_in"/>
+        <pin num="91" name="GND@4" type="power_in"/>
+        <pin num="92" name="GND@6" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="BORDO_UNIXMEDIA150X83,5">
+      <fields>
+        <field name="Reference">PCB</field>
+        <field name="Value">BORDO_UNIXMEDIA150X83,5</field>
+        <field name="Footprint">osso:BORD_UNIXMEDIA</field>
+      </fields>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="C5{slash}2.5">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C5{slash}2.5</field>
+        <field name="Footprint">osso:C5B2.5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="CE-MARK">
+      <fields>
+        <field name="Reference">SS</field>
+        <field name="Value">CE-MARK</field>
+        <field name="Footprint">osso:CE-MARK-0.2</field>
+      </fields>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="DIODE">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+        <field name="Footprint">osso:DO15-12</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="HOLE3.0">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">HOLE3.0</field>
+        <field name="Footprint">osso:3,0</field>
+      </fields>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="JUMPER_2">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JUMPER_2</field>
+        <field name="Footprint">osso:JP1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="MAX202CPE">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MAX202CPE</field>
+        <field name="Footprint">osso:DIL16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C1+" type="passive"/>
+        <pin num="2" name="V+" type="power_in"/>
+        <pin num="3" name="C1-" type="passive"/>
+        <pin num="4" name="C2+" type="passive"/>
+        <pin num="5" name="C2-" type="passive"/>
+        <pin num="6" name="V-" type="power_in"/>
+        <pin num="7" name="T2OUT" type="output"/>
+        <pin num="8" name="R2IN" type="input"/>
+        <pin num="9" name="R2OUT" type="output"/>
+        <pin num="10" name="T2IN" type="input"/>
+        <pin num="11" name="T1IN" type="input"/>
+        <pin num="12" name="R1OUT" type="output"/>
+        <pin num="13" name="R1IN" type="input"/>
+        <pin num="14" name="T1OUT" type="output"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="MAX481CPA">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MAX481CPA</field>
+        <field name="Footprint">osso:DIL08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RO" type="output"/>
+        <pin num="2" name="RE/" type="input"/>
+        <pin num="3" name="DE" type="input"/>
+        <pin num="4" name="DI" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="A" type="passive"/>
+        <pin num="7" name="B" type="passive"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="MORSETTO_2">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">MORSETTO_2</field>
+        <field name="Footprint">osso:W237-102</field>
+      </fields>
+      <pins>
+        <pin num="1" name="KL" type="passive"/>
+        <pin num="2" name="KL" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="MORSETTO_3">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">MORSETTO_3</field>
+        <field name="Footprint">osso:W237-103</field>
+      </fields>
+      <pins>
+        <pin num="1" name="KL" type="passive"/>
+        <pin num="2" name="KL" type="passive"/>
+        <pin num="3" name="KL" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="OPTOISOLATORE_ILQ620">
+      <fields>
+        <field name="Reference">OK</field>
+        <field name="Value">OPTOISOLATORE_ILQ620</field>
+        <field name="Footprint">osso:DIL16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AC1" type="passive"/>
+        <pin num="2" name="AC2" type="passive"/>
+        <pin num="3" name="AC1" type="passive"/>
+        <pin num="4" name="AC2" type="passive"/>
+        <pin num="5" name="AC1" type="passive"/>
+        <pin num="6" name="AC2" type="passive"/>
+        <pin num="7" name="AC1" type="passive"/>
+        <pin num="8" name="AC2" type="passive"/>
+        <pin num="9" name="E" type="passive"/>
+        <pin num="10" name="C" type="passive"/>
+        <pin num="11" name="E" type="passive"/>
+        <pin num="12" name="C" type="passive"/>
+        <pin num="13" name="E" type="passive"/>
+        <pin num="14" name="C" type="passive"/>
+        <pin num="15" name="E" type="passive"/>
+        <pin num="16" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="PB-MARK">
+      <fields>
+        <field name="Reference">SS</field>
+        <field name="Value">PB-MARK</field>
+        <field name="Footprint">osso:PB-MARK-0.2</field>
+      </fields>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="REGOLATORE_TENSIONESWITCHING">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">REGOLATORE_TENSIONESWITCHING</field>
+        <field name="Footprint">osso:MT6-3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="input"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="VO" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="RELAY">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">RELAY</field>
+        <field name="Footprint">osso:G5LE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="O" name="O" type="passive"/>
+        <pin num="P" name="P" type="passive"/>
+        <pin num="S" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="RESISTOR0204{slash}7">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RESISTOR0204{slash}7</field>
+        <field name="Footprint">osso:0204_7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="RTC_MICROROBOT_ALGOZINO-PTH">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">RTC_MICROROBOT_ALGOZINO-PTH</field>
+        <field name="Footprint">osso:RTC_MICROBOT_ALGOZINO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="4" name="4" type="bidirectional"/>
+        <pin num="5" name="5" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="TPPAD1-13">
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TPPAD1-13</field>
+        <field name="Footprint">osso:TEST_POINT</field>
+      </fields>
+      <pins>
+        <pin num="TP" name="TP" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="osso-eagle-import" part="ULN2003AN">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ULN2003AN</field>
+        <field name="Footprint">osso:DIL16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I1" type="input"/>
+        <pin num="2" name="I2" type="input"/>
+        <pin num="3" name="I3" type="input"/>
+        <pin num="4" name="I4" type="input"/>
+        <pin num="5" name="I5" type="input"/>
+        <pin num="6" name="I6" type="input"/>
+        <pin num="7" name="I7" type="input"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="CD+" type="passive"/>
+        <pin num="10" name="O7" type="open_collector"/>
+        <pin num="11" name="O6" type="open_collector"/>
+        <pin num="12" name="O5" type="open_collector"/>
+        <pin num="13" name="O4" type="open_collector"/>
+        <pin num="14" name="O3" type="open_collector"/>
+        <pin num="15" name="O2" type="open_collector"/>
+        <pin num="16" name="O1" type="open_collector"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="osso-eagle-import">
+      <uri>/home/wileyc/src/OSSO/kicad/osso-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/3.3V">
+      <node ref="R18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R22" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R23" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R24" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R25" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U$1" pin="49" pinfunction="VDD_3V3EXP@1" pintype="power_in"/>
+      <node ref="U$1" pin="50" pinfunction="VDD_3V3EXP@2" pintype="power_in"/>
+    </net>
+    <net code="2" name="/5V">
+      <node ref="C11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="VO" pintype="passive"/>
+      <node ref="IC4" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC5" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC6" pin="3" pinfunction="VO" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="U$1" pin="51" pinfunction="VDD_5V@1" pintype="power_in"/>
+      <node ref="U$1" pin="52" pinfunction="VDD_5V@2" pintype="power_in"/>
+      <node ref="X9" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="3" name="/12V">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="D1" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="VI" pintype="input"/>
+      <node ref="IC2" pin="9" pinfunction="CD+" pintype="passive"/>
+      <node ref="IC6" pin="1" pinfunction="VI" pintype="input"/>
+      <node ref="K1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/ALIM">
+      <node ref="ALIM0" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="ALIM1" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="D1" pin="A" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="5" name="/BB_RX">
+      <node ref="IC4" pin="12" pinfunction="R1OUT" pintype="output"/>
+      <node ref="IC5" pin="1" pinfunction="RO" pintype="output"/>
+      <node ref="U$1" pin="72" pinfunction="UART1_RXD" pintype="passive"/>
+    </net>
+    <net code="6" name="/BB_TX">
+      <node ref="IC4" pin="11" pinfunction="T1IN" pintype="input"/>
+      <node ref="IC5" pin="4" pinfunction="DI" pintype="input"/>
+      <node ref="U$1" pin="70" pinfunction="UART1_TXD" pintype="passive"/>
+    </net>
+    <net code="7" name="/BOB1">
+      <node ref="IC2" pin="10" pinfunction="O7" pintype="open_collector"/>
+      <node ref="IC2" pin="11" pinfunction="O6" pintype="open_collector"/>
+      <node ref="K1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/BOB2">
+      <node ref="IC2" pin="12" pinfunction="O5" pintype="open_collector"/>
+      <node ref="IC2" pin="13" pinfunction="O4" pintype="open_collector"/>
+      <node ref="K2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/BOB3">
+      <node ref="IC2" pin="14" pinfunction="O3" pintype="open_collector"/>
+      <node ref="IC2" pin="15" pinfunction="O2" pintype="open_collector"/>
+      <node ref="K3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="/BOB4">
+      <node ref="IC2" pin="16" pinfunction="O1" pintype="open_collector"/>
+      <node ref="K4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="/BOB5">
+      <node ref="IC3" pin="10" pinfunction="O7" pintype="open_collector"/>
+      <node ref="IC3" pin="11" pinfunction="O6" pintype="open_collector"/>
+      <node ref="K5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/BOB6">
+      <node ref="IC3" pin="12" pinfunction="O5" pintype="open_collector"/>
+      <node ref="IC3" pin="13" pinfunction="O4" pintype="open_collector"/>
+      <node ref="K6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/BOB7">
+      <node ref="IC3" pin="14" pinfunction="O3" pintype="open_collector"/>
+      <node ref="IC3" pin="15" pinfunction="O2" pintype="open_collector"/>
+      <node ref="K7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="/BOB8">
+      <node ref="IC3" pin="16" pinfunction="O1" pintype="open_collector"/>
+      <node ref="K8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="15" name="/I2C1_SCL">
+      <node ref="I2C0" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="bidirectional"/>
+      <node ref="U$1" pin="63" pinfunction="I2C1_SCL" pintype="passive"/>
+    </net>
+    <net code="16" name="/I2C1_SDA">
+      <node ref="I2C0" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="U$1" pin="64" pinfunction="I2C1_SDA" pintype="passive"/>
+    </net>
+    <net code="17" name="/I2C2_SCL">
+      <node ref="SCL2" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="65" pinfunction="I2C2_SCL" pintype="passive"/>
+    </net>
+    <net code="18" name="/I2C2_SDA">
+      <node ref="SDA2" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="66" pinfunction="I2C2_SDA" pintype="passive"/>
+    </net>
+    <net code="19" name="/IN1">
+      <node ref="OK1" pin="16" pinfunction="C" pintype="passive"/>
+      <node ref="R18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$1" pin="15" pinfunction="GPIO1_15" pintype="passive"/>
+    </net>
+    <net code="20" name="/IN1_12V">
+      <node ref="OK1" pin="1" pinfunction="AC1" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R17" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="/IN2">
+      <node ref="OK1" pin="14" pinfunction="C" pintype="passive"/>
+      <node ref="R19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$1" pin="11" pinfunction="GPIO1_13" pintype="passive"/>
+    </net>
+    <net code="22" name="/IN2_12V">
+      <node ref="OK1" pin="3" pinfunction="AC1" pintype="passive"/>
+      <node ref="R16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="/IN3">
+      <node ref="OK1" pin="12" pinfunction="C" pintype="passive"/>
+      <node ref="R20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$1" pin="14" pinfunction="GPIO0_26" pintype="passive"/>
+    </net>
+    <net code="24" name="/IN3_12V">
+      <node ref="OK1" pin="5" pinfunction="AC1" pintype="passive"/>
+      <node ref="R15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="/IN4">
+      <node ref="OK1" pin="10" pinfunction="C" pintype="passive"/>
+      <node ref="R21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$1" pin="12" pinfunction="GPIO1_12" pintype="passive"/>
+    </net>
+    <net code="26" name="/IN4_12V">
+      <node ref="OK1" pin="7" pinfunction="AC1" pintype="passive"/>
+      <node ref="R14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="/IN5">
+      <node ref="OK2" pin="16" pinfunction="C" pintype="passive"/>
+      <node ref="R22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$1" pin="16" pinfunction="GPIO1_14" pintype="passive"/>
+    </net>
+    <net code="28" name="/IN5_12V">
+      <node ref="OK2" pin="1" pinfunction="AC1" pintype="passive"/>
+      <node ref="R13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="/IN6">
+      <node ref="OK2" pin="14" pinfunction="C" pintype="passive"/>
+      <node ref="R23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$1" pin="17" pinfunction="GPIO0_27" pintype="passive"/>
+    </net>
+    <net code="30" name="/IN6_12V">
+      <node ref="OK2" pin="3" pinfunction="AC1" pintype="passive"/>
+      <node ref="R12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="/IN7">
+      <node ref="OK2" pin="12" pinfunction="C" pintype="passive"/>
+      <node ref="R24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$1" pin="18" pinfunction="GPIO2_1" pintype="passive"/>
+    </net>
+    <net code="32" name="/IN7_12V">
+      <node ref="OK2" pin="5" pinfunction="AC1" pintype="passive"/>
+      <node ref="R11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="/IN8">
+      <node ref="OK2" pin="10" pinfunction="C" pintype="passive"/>
+      <node ref="R25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$1" pin="26" pinfunction="GPIO1_29" pintype="passive"/>
+    </net>
+    <net code="34" name="/IN8_12V">
+      <node ref="OK2" pin="7" pinfunction="AC1" pintype="passive"/>
+      <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="/N$18">
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC3" pin="9" pinfunction="CD+" pintype="passive"/>
+    </net>
+    <net code="36" name="/REL1">
+      <node ref="IC2" pin="6" pinfunction="I6" pintype="input"/>
+      <node ref="IC2" pin="7" pinfunction="I7" pintype="input"/>
+      <node ref="U$1" pin="58" pinfunction="GPIO1_28" pintype="passive"/>
+    </net>
+    <net code="37" name="/REL2">
+      <node ref="IC2" pin="4" pinfunction="I4" pintype="input"/>
+      <node ref="IC2" pin="5" pinfunction="I5" pintype="input"/>
+      <node ref="U$1" pin="61" pinfunction="GPIO1_16" pintype="passive"/>
+    </net>
+    <net code="38" name="/REL3">
+      <node ref="IC2" pin="2" pinfunction="I2" pintype="input"/>
+      <node ref="IC2" pin="3" pinfunction="I3" pintype="input"/>
+      <node ref="U$1" pin="69" pinfunction="GPIO1_17" pintype="passive"/>
+    </net>
+    <net code="39" name="/REL4">
+      <node ref="IC2" pin="1" pinfunction="I1" pintype="input"/>
+      <node ref="U$1" pin="9" pinfunction="TIMER5" pintype="passive"/>
+    </net>
+    <net code="40" name="/REL5">
+      <node ref="IC3" pin="6" pinfunction="I6" pintype="input"/>
+      <node ref="IC3" pin="7" pinfunction="I7" pintype="input"/>
+      <node ref="U$1" pin="73" pinfunction="GPIO3_19" pintype="passive"/>
+    </net>
+    <net code="41" name="/REL6">
+      <node ref="IC3" pin="4" pinfunction="I4" pintype="input"/>
+      <node ref="IC3" pin="5" pinfunction="I5" pintype="input"/>
+      <node ref="U$1" pin="87" pinfunction="CLKOUT2" pintype="input"/>
+    </net>
+    <net code="42" name="/REL7">
+      <node ref="IC3" pin="2" pinfunction="I2" pintype="input"/>
+      <node ref="IC3" pin="3" pinfunction="I3" pintype="input"/>
+      <node ref="U$1" pin="7" pinfunction="TIMER4" pintype="passive"/>
+    </net>
+    <net code="43" name="/REL8">
+      <node ref="IC3" pin="1" pinfunction="I1" pintype="input"/>
+      <node ref="U$1" pin="88" pinfunction="GPIO0_7" pintype="passive"/>
+    </net>
+    <net code="44" name="/RS485_ENABLE">
+      <node ref="IC5" pin="3" pinfunction="DE" pintype="input"/>
+      <node ref="TP52" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="TP62" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="28" pinfunction="GPIO2_24" pintype="passive"/>
+    </net>
+    <net code="45" name="/RX_B">
+      <node ref="IC4" pin="13" pinfunction="R1IN" pintype="input"/>
+      <node ref="IC5" pin="7" pinfunction="B" pintype="passive"/>
+      <node ref="R9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="X9" pin="3" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="46" name="/TX_A">
+      <node ref="IC4" pin="14" pinfunction="T1OUT" pintype="output"/>
+      <node ref="IC5" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="X9" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="47" name="GND">
+      <node ref="ALIM0" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="ALIM1" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="IC2" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC3" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC4" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC5" pin="2" pinfunction="RE/" pintype="input"/>
+      <node ref="IC5" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC6" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="bidirectional"/>
+      <node ref="JP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="OK1" pin="11" pinfunction="E" pintype="passive"/>
+      <node ref="OK1" pin="13" pinfunction="E" pintype="passive"/>
+      <node ref="OK1" pin="15" pinfunction="E" pintype="passive"/>
+      <node ref="OK1" pin="9" pinfunction="E" pintype="passive"/>
+      <node ref="OK2" pin="11" pinfunction="E" pintype="passive"/>
+      <node ref="OK2" pin="13" pinfunction="E" pintype="passive"/>
+      <node ref="OK2" pin="15" pinfunction="E" pintype="passive"/>
+      <node ref="OK2" pin="9" pinfunction="E" pintype="passive"/>
+      <node ref="U$1" pin="1" pinfunction="GND@7" pintype="power_in"/>
+      <node ref="U$1" pin="2" pinfunction="GND@8" pintype="power_in"/>
+      <node ref="U$1" pin="47" pinfunction="GND@1" pintype="power_in"/>
+      <node ref="U$1" pin="48" pinfunction="GND@2" pintype="power_in"/>
+      <node ref="U$1" pin="89" pinfunction="GND@3" pintype="power_in"/>
+      <node ref="U$1" pin="90" pinfunction="GND@5" pintype="power_in"/>
+      <node ref="U$1" pin="91" pinfunction="GND@4" pintype="power_in"/>
+      <node ref="U$1" pin="92" pinfunction="GND@6" pintype="power_in"/>
+    </net>
+    <net code="48" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC4" pin="1" pinfunction="C1+" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC4" pin="3" pinfunction="C1-" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC4" pin="4" pinfunction="C2+" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC4" pin="5" pinfunction="C2-" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC4" pin="6" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="53" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC4" pin="2" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="54" name="Net-(IN1-Pad1)">
+      <node ref="IN1" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(IN1-Pad2)">
+      <node ref="IN1" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="OK1" pin="2" pinfunction="AC2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(IN2-Pad1)">
+      <node ref="IN2" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(IN2-Pad2)">
+      <node ref="IN2" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="OK1" pin="4" pinfunction="AC2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(IN3-Pad1)">
+      <node ref="IN3" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(IN3-Pad2)">
+      <node ref="IN3" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="OK1" pin="6" pinfunction="AC2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(IN4-Pad1)">
+      <node ref="IN4" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(IN4-Pad2)">
+      <node ref="IN4" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="OK1" pin="8" pinfunction="AC2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(IN5-Pad1)">
+      <node ref="IN5" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(IN5-Pad2)">
+      <node ref="IN5" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="OK2" pin="2" pinfunction="AC2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(IN6-Pad1)">
+      <node ref="IN6" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(IN6-Pad2)">
+      <node ref="IN6" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="OK2" pin="4" pinfunction="AC2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(IN7-Pad1)">
+      <node ref="IN7" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="R7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(IN7-Pad2)">
+      <node ref="IN7" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="OK2" pin="6" pinfunction="AC2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(IN8-Pad1)">
+      <node ref="IN8" pin="1" pinfunction="KL" pintype="passive"/>
+      <node ref="R8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(IN8-Pad2)">
+      <node ref="IN8" pin="2" pinfunction="KL" pintype="passive"/>
+      <node ref="OK2" pin="8" pinfunction="AC2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(JP1-Pad2)">
+      <node ref="JP1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U$1" pin="55" pinfunction="PWR_BUT" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(K1-PadO)">
+      <node ref="K1" pin="O" pinfunction="O" pintype="passive"/>
+      <node ref="X1" pin="3" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(K1-PadP)">
+      <node ref="K1" pin="P" pinfunction="P" pintype="passive"/>
+      <node ref="X1" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(K1-PadS)">
+      <node ref="K1" pin="S" pinfunction="S" pintype="passive"/>
+      <node ref="X1" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(K2-PadO)">
+      <node ref="K2" pin="O" pinfunction="O" pintype="passive"/>
+      <node ref="X2" pin="3" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(K2-PadP)">
+      <node ref="K2" pin="P" pinfunction="P" pintype="passive"/>
+      <node ref="X2" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(K2-PadS)">
+      <node ref="K2" pin="S" pinfunction="S" pintype="passive"/>
+      <node ref="X2" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(K3-PadO)">
+      <node ref="K3" pin="O" pinfunction="O" pintype="passive"/>
+      <node ref="X3" pin="3" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(K3-PadP)">
+      <node ref="K3" pin="P" pinfunction="P" pintype="passive"/>
+      <node ref="X3" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(K3-PadS)">
+      <node ref="K3" pin="S" pinfunction="S" pintype="passive"/>
+      <node ref="X3" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(K4-PadO)">
+      <node ref="K4" pin="O" pinfunction="O" pintype="passive"/>
+      <node ref="X4" pin="3" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(K4-PadP)">
+      <node ref="K4" pin="P" pinfunction="P" pintype="passive"/>
+      <node ref="X4" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(K4-PadS)">
+      <node ref="K4" pin="S" pinfunction="S" pintype="passive"/>
+      <node ref="X4" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(K5-PadO)">
+      <node ref="K5" pin="O" pinfunction="O" pintype="passive"/>
+      <node ref="X5" pin="3" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(K5-PadP)">
+      <node ref="K5" pin="P" pinfunction="P" pintype="passive"/>
+      <node ref="X5" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(K5-PadS)">
+      <node ref="K5" pin="S" pinfunction="S" pintype="passive"/>
+      <node ref="X5" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(K6-PadO)">
+      <node ref="K6" pin="O" pinfunction="O" pintype="passive"/>
+      <node ref="X6" pin="3" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(K6-PadP)">
+      <node ref="K6" pin="P" pinfunction="P" pintype="passive"/>
+      <node ref="X6" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(K6-PadS)">
+      <node ref="K6" pin="S" pinfunction="S" pintype="passive"/>
+      <node ref="X6" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(K7-PadO)">
+      <node ref="K7" pin="O" pinfunction="O" pintype="passive"/>
+      <node ref="X7" pin="3" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(K7-PadP)">
+      <node ref="K7" pin="P" pinfunction="P" pintype="passive"/>
+      <node ref="X7" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(K7-PadS)">
+      <node ref="K7" pin="S" pinfunction="S" pintype="passive"/>
+      <node ref="X7" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(K8-PadO)">
+      <node ref="K8" pin="O" pinfunction="O" pintype="passive"/>
+      <node ref="X8" pin="3" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(K8-PadP)">
+      <node ref="K8" pin="P" pinfunction="P" pintype="passive"/>
+      <node ref="X8" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(K8-PadS)">
+      <node ref="K8" pin="S" pinfunction="S" pintype="passive"/>
+      <node ref="X8" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(TP1-PadTP)">
+      <node ref="TP1" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="X10" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(TP2-PadTP)">
+      <node ref="TP2" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="X10" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(TP3-PadTP)">
+      <node ref="TP3" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="X11" pin="1" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(TP4-PadTP)">
+      <node ref="TP4" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="X11" pin="2" pinfunction="KL" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(TP5-PadTP)">
+      <node ref="TP5" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="3" pinfunction="GPIO1_6" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(TP6-PadTP)">
+      <node ref="TP6" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="5" pinfunction="GPIO1_2" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(TP7-PadTP)">
+      <node ref="TP7" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="8" pinfunction="TIMER7" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(TP8-PadTP)">
+      <node ref="TP8" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="13" pinfunction="EHRPWM2B" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(TP9-PadTP)">
+      <node ref="TP9" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="21" pinfunction="GPIO1_30" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(TP10-PadTP)">
+      <node ref="TP10" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="23" pinfunction="GPIO1_4" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(TP11-PadTP)">
+      <node ref="TP11" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="25" pinfunction="GPIO1_0" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(TP12-PadTP)">
+      <node ref="TP12" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="27" pinfunction="GPIO2_22" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(TP13-PadTP)">
+      <node ref="TP13" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="29" pinfunction="GPIO2_23" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(TP14-PadTP)">
+      <node ref="TP14" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="31" pinfunction="UART5_CTSN" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(TP15-PadTP)">
+      <node ref="TP15" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="33" pinfunction="UART4_RTSN" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(TP16-PadTP)">
+      <node ref="TP16" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="35" pinfunction="UART4_CTSN" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(TP17-PadTP)">
+      <node ref="TP17" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="37" pinfunction="UART5_TXD" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(TP18-PadTP)">
+      <node ref="TP18" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="39" pinfunction="GPIO2_12" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(TP19-PadTP)">
+      <node ref="TP19" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="41" pinfunction="GPIO2_10" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(TP20-PadTP)">
+      <node ref="TP20" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="43" pinfunction="GPIO2_8" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(TP21-PadTP)">
+      <node ref="TP21" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="19" pinfunction="EHRPWM2A" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(TP22-PadTP)">
+      <node ref="TP22" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="45" pinfunction="GPIO2_6" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(TP23-PadTP)">
+      <node ref="TP23" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="53" pinfunction="SYS_5V@1" pintype="power_in"/>
+    </net>
+    <net code="118" name="Net-(TP24-PadTP)">
+      <node ref="TP24" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="57" pinfunction="UART4_RXD" pintype="passive"/>
+    </net>
+    <net code="119" name="Net-(TP25-PadTP)">
+      <node ref="TP25" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="59" pinfunction="UART4_TXD" pintype="passive"/>
+    </net>
+    <net code="120" name="Net-(TP26-PadTP)">
+      <node ref="TP26" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="67" pinfunction="UART2_TXD" pintype="passive"/>
+    </net>
+    <net code="121" name="Net-(TP27-PadTP)">
+      <node ref="TP27" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="71" pinfunction="GPIO3_21" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(TP28-PadTP)">
+      <node ref="TP28" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="75" pinfunction="SPI1_DO" pintype="passive"/>
+    </net>
+    <net code="123" name="Net-(TP29-PadTP)">
+      <node ref="TP29" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="77" pinfunction="SPI1_SCLK" pintype="passive"/>
+    </net>
+    <net code="124" name="Net-(TP30-PadTP)">
+      <node ref="TP30" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="79" pinfunction="AIN4" pintype="passive"/>
+    </net>
+    <net code="125" name="Net-(TP31-PadTP)">
+      <node ref="TP31" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="81" pinfunction="AIN6" pintype="passive"/>
+    </net>
+    <net code="126" name="Net-(TP32-PadTP)">
+      <node ref="TP32" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="83" pinfunction="AIN2" pintype="passive"/>
+    </net>
+    <net code="127" name="Net-(TP33-PadTP)">
+      <node ref="TP33" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="85" pinfunction="AIN0" pintype="power_in"/>
+    </net>
+    <net code="128" name="Net-(TP34-PadTP)">
+      <node ref="TP34" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="54" pinfunction="SYS_5V@2" pintype="passive"/>
+    </net>
+    <net code="129" name="Net-(TP35-PadTP)">
+      <node ref="TP35" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="56" pinfunction="SYS_RESETN" pintype="passive"/>
+    </net>
+    <net code="130" name="Net-(TP36-PadTP)">
+      <node ref="TP36" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="60" pinfunction="EHRPWM1A" pintype="passive"/>
+    </net>
+    <net code="131" name="Net-(TP37-PadTP)">
+      <node ref="TP37" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="62" pinfunction="EHRPWM1B" pintype="passive"/>
+    </net>
+    <net code="132" name="Net-(TP38-PadTP)">
+      <node ref="TP38" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="68" pinfunction="UART2_RXD" pintype="passive"/>
+    </net>
+    <net code="133" name="Net-(TP39-PadTP)">
+      <node ref="TP39" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="74" pinfunction="SPI1_CS0" pintype="passive"/>
+    </net>
+    <net code="134" name="Net-(TP40-PadTP)">
+      <node ref="TP40" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="76" pinfunction="SPI1_DI" pintype="passive"/>
+    </net>
+    <net code="135" name="Net-(TP41-PadTP)">
+      <node ref="TP41" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="78" pinfunction="VDD_ADC" pintype="passive"/>
+    </net>
+    <net code="136" name="Net-(TP42-PadTP)">
+      <node ref="TP42" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="80" pinfunction="GNDA_ADC" pintype="passive"/>
+    </net>
+    <net code="137" name="Net-(TP43-PadTP)">
+      <node ref="TP43" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="82" pinfunction="AIN5" pintype="passive"/>
+    </net>
+    <net code="138" name="Net-(TP44-PadTP)">
+      <node ref="TP44" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="84" pinfunction="AIN3" pintype="passive"/>
+    </net>
+    <net code="139" name="Net-(TP45-PadTP)">
+      <node ref="TP45" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="86" pinfunction="AIN1" pintype="passive"/>
+    </net>
+    <net code="140" name="Net-(TP46-PadTP)">
+      <node ref="TP46" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="4" pinfunction="GPIO1_7" pintype="passive"/>
+    </net>
+    <net code="141" name="Net-(TP47-PadTP)">
+      <node ref="TP47" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="6" pinfunction="GPIO1_3" pintype="passive"/>
+    </net>
+    <net code="142" name="Net-(TP48-PadTP)">
+      <node ref="TP48" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="10" pinfunction="TIMER6" pintype="passive"/>
+    </net>
+    <net code="143" name="Net-(TP49-PadTP)">
+      <node ref="TP49" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="20" pinfunction="GPIO1_31" pintype="passive"/>
+    </net>
+    <net code="144" name="Net-(TP50-PadTP)">
+      <node ref="TP50" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="22" pinfunction="GPIO1_5" pintype="passive"/>
+    </net>
+    <net code="145" name="Net-(TP51-PadTP)">
+      <node ref="TP51" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="24" pinfunction="GPIO1_1" pintype="passive"/>
+    </net>
+    <net code="146" name="Net-(TP53-PadTP)">
+      <node ref="TP53" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="30" pinfunction="GPIO2_25" pintype="passive"/>
+    </net>
+    <net code="147" name="Net-(TP54-PadTP)">
+      <node ref="TP54" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="32" pinfunction="UART5_RTSN" pintype="passive"/>
+    </net>
+    <net code="148" name="Net-(TP55-PadTP)">
+      <node ref="TP55" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="34" pinfunction="UART3_RTSN" pintype="passive"/>
+    </net>
+    <net code="149" name="Net-(TP56-PadTP)">
+      <node ref="TP56" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="36" pinfunction="UART3_CTSN" pintype="passive"/>
+    </net>
+    <net code="150" name="Net-(TP57-PadTP)">
+      <node ref="TP57" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="38" pinfunction="UART5_RXD" pintype="passive"/>
+    </net>
+    <net code="151" name="Net-(TP58-PadTP)">
+      <node ref="TP58" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="40" pinfunction="GPIO2_13" pintype="passive"/>
+    </net>
+    <net code="152" name="Net-(TP59-PadTP)">
+      <node ref="TP59" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="42" pinfunction="GPIO2_11" pintype="passive"/>
+    </net>
+    <net code="153" name="Net-(TP60-PadTP)">
+      <node ref="TP60" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="44" pinfunction="GPIO2_9" pintype="passive"/>
+    </net>
+    <net code="154" name="Net-(TP61-PadTP)">
+      <node ref="TP61" pin="TP" pinfunction="TP" pintype="input"/>
+      <node ref="U$1" pin="46" pinfunction="GPIO2_7" pintype="passive"/>
+    </net>
+    <net code="155" name="unconnected-(IC4-Pad7)">
+      <node ref="IC4" pin="7" pinfunction="T2OUT" pintype="output"/>
+    </net>
+    <net code="156" name="unconnected-(IC4-Pad8)">
+      <node ref="IC4" pin="8" pinfunction="R2IN" pintype="input"/>
+    </net>
+    <net code="157" name="unconnected-(IC4-Pad9)">
+      <node ref="IC4" pin="9" pinfunction="R2OUT" pintype="output"/>
+    </net>
+    <net code="158" name="unconnected-(IC4-Pad10)">
+      <node ref="IC4" pin="10" pinfunction="T2IN" pintype="input"/>
+    </net>
+    <net code="159" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="4" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>

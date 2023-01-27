@@ -1,26 +1,26 @@
-#Osso
+# Osso
 ====
 
 Osso is a BeagleBone (White/Black/Green) I/O expansion cape.
 
 The Osso was designed by Franco (nextime) Lanza <franco@nexlab.it>
 
-##Output
+## Output
 
 The Osso has 8 relays rated at 275VAC@10A.
 
 ##Input
 Osso has 8 digital inputs.  They can be switched between opto-isolated and non-opto-isolated; the instructions are [here](INPUTS.md)
 
-##Power
+## Power
 
 The expansion cape is powered by a 12VDC connector (9 to 24VDC supported).  The Osso will supply power to the BeagleBone via the expansion pins.
 
-##Software
+## Software
 
 A test Debian GNU/Linux install is available.  Installation instructions are [here](TEST.md)
 
-##Miscellaneous
+## Miscellaneous
 
 The size of the cape is a standard format for 9 units DIN mount boxes.
 

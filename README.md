@@ -13,7 +13,7 @@ The expansion cape has to be powered by a 12VDC connector (9 to 24VDC supported)
 
 The size of the cape is a standard format for 9 units DIN mount boxes.
 
-Test Debian GNU/Linux install available: take a look at [TEST.md]
+Test Debian GNU/Linux install available: take a look at [the test image installation instructions](TEST.md)
 
 For more infos: https://www.nexlab.net/
 

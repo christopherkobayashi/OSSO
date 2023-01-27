@@ -1,27 +1,42 @@
-Osso
+#Osso
 ====
 
-Osso Beaglebone (white/black/green) I/O cape board support files
+Osso is a BeagleBone (White/Black/Green) I/O expansion cape.
 
-Osso is a Beaglebone (white/black/green) expansion cape with 8 digital optoinsulated inputs and 8 relays 275VAC@10A.
+The Osso was designed by Franco (nextime) Lanza <franco@nexlab.it>
 
-Osso is shipped with the ability to switch optoinsulated inputs or non-optoinsulated inputs, to better fit user needs.
+##Output
 
-Docs about how to change input types: https://git.nexlab.net/nexlab/Osso/wikis/Osso-Inputs
+The Osso has 8 relays rated at 275VAC@10A.
 
-The expansion cape has to be powered by a 12VDC connector (9 to 24VDC supported), and it will power the Beagleboard from expansion pins ( no need to give external power from USB or power connector on the beaglebone! )
+##Input
+Osso has 8 digital inputs.  They can be switched between opto-isolated and non-opto-isolated; the instructions are [here](INPUTS.md)
+
+##Power
+
+The expansion cape is powered by a 12VDC connector (9 to 24VDC supported).  The Osso will supply power to the BeagleBone via the expansion pins.
+
+##Software
+
+A test Debian GNU/Linux install is available.  Installation instructions are [here](TEST.md)
+
+##Miscellaneous
 
 The size of the cape is a standard format for 9 units DIN mount boxes.
 
-Test Debian GNU/Linux install available: take a look at [the test image installation instructions](TEST.md)
-
-For more infos: https://www.nexlab.net/
+##Pictures
 
 ![Osso board](images/Osso2_650x450.jpg)
 ![Osso board](images/Osso3_650x450.jpg)
 
-Do you like our cape? Donations in Bitcoin is accepted at 1FfyqV2SnrhM5sTwL9jUCt2qPDgCPnwggi
-
 Pin diagram (green dot pins are optional, other required):
 
 ![Osso Pin Diagram](images/OssoPinDiagram.jpg)
+
+## Miscellaneous
+
+For more information, please visit https://www.nexlab.net/
+
+Do you like our cape? Donations in Bitcoin is accepted at 1ABepVhyYuZNxiMQe8atPi4tRJZKkpRDqb (CK note: verify this address with nextime before sending any Bitcoin!)
+
+
